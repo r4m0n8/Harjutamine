@@ -2,3 +2,10 @@ Github on veebipõhine hostimis- ja koostööplatvorm, mida professionaalsed pro
 Githubi kasutav professionaal saab täiustatud platvormi abil tarkvara luua ja hallata.
 
 Githubist saab kasutada koodi kirjutamisel vajalikku abi
+
+Github loodi 8 veebruaril 2008
+Loojateks olid:
+Tom Preston-Werner
+Chris Wanstrath
+P. J. Hyett
+Scott Chacon
