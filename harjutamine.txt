@@ -1,0 +1,2 @@
+Github on veebipõhine hostimis- ja koostööplatvorm, mida professionaalsed programmeerijad kasutavad uue tarkvara arendamiseks.
+Githubi kasutav professionaal saab täiustatud platvormi abil tarkvara luua ja hallata.
